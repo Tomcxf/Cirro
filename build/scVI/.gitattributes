@@ -1,0 +1,2 @@
+minicore_downsample10W.jsonl.idx.json filter=lfs diff=lfs merge=lfs -text
+minicore_downsample10W.jsonl filter=lfs diff=lfs merge=lfs -text
